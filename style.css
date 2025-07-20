@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url("background.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #e60000;
+  margin-bottom: 10px;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #e60000;
+}
+
+main {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+h2 {
+  color: #e60000;
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.9);
+  font-size: 0.9em;
+  color: #aaa;
+}
